@@ -1,0 +1,5 @@
+\defaultfontfeatures[Mr Eaves]{
+  Path = ./fonts/Mr Eaves/ ,
+  Extension = .otf ,
+  UprightFont = Mr Eaves Small Caps,
+}
